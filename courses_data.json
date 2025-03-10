@@ -1,0 +1,42 @@
+[
+    {
+        "name": "CS2333",
+        "grades": [
+            {
+                "category": "Test1",
+                "score": 33.0,
+                "total": 50.0,
+                "weight": 23.0
+            },
+            {
+                "category": "Assignment 1 ",
+                "score": 8.1,
+                "total": 9.0,
+                "weight": 9.0
+            },
+            {
+                "category": "Assignment 2",
+                "score": 8.0,
+                "total": 9.0,
+                "weight": 9.0
+            },
+            {
+                "category": "Test 2",
+                "score": 24.0,
+                "total": 50.0,
+                "weight": 23.0
+            }
+        ]
+    },
+    {
+        "name": "MATH1003",
+        "grades": [
+            {
+                "category": "Test 1",
+                "score": 30.5,
+                "total": 41.0,
+                "weight": 15.0
+            }
+        ]
+    }
+]
